@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.filter-btn {
+  background-color: transparent;
+  border-width: 0px;
+  margin-right: 10px;
+  text-align: center;
+  font-family: 'roboto';
+  color: #0f172a;
+  font-weight: bold;
+}
+.selected-bnt {
+  border: 1px solid #0284c7;
+  color: #0284c7;
+  font-family: 'roboto';
+  font-weight: bold;
+  background-color: transparent;
+  border-radius: 12px;
+  margin-right: 10px;
+  text-align: center;
+}
